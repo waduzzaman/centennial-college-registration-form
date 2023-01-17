@@ -1,0 +1,64 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	background-image: none;
+	background-color: #C6DD9D;
+}
+h1 {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	background-image: url('images/Continuing Education.png');
+	background-repeat: no-repeat;
+	padding-left: 250px;
+	height: 170px;
+	color: #847E19;
+	font-weight: bolder;
+}
+#Copyright {
+	font-size: x-small;
+	color: white;
+}
+label {
+	text-align: left;
+	width: 275px;
+	float: left;
+}
+legend {
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #808080;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color: #666633;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+#allPage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border: medium solid #808000;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px gray;
+	padding: 10px;
+}
+#deptInfo {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-size: medium;
+	font-variant: normal;
+	font-style: inherit;
+	text-transform: none;
+	text-align: center;
+}
+#homePage {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: white;
+}
+#student {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-style: normal;
+}
